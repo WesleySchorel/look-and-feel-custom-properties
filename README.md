@@ -2,7 +2,7 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Mijn analysefase en bouwfase voor het gebruik van custom properties waardoor mijn CSS overzichtelijker wordt. Bekijk mijn wiki hier:
+# Mijn analysefase en bouwfase voor het gebruik van custom properties waardoor mijn CSS overzichtelijker wordt. Bekijk mijn wiki hier: https://github.com/WesleySchorel/look-and-feel-custom-properties/wiki/Custom-properties
 
 
 ## Licentie
